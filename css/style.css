@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span{
+    color: rgb(149, 1, 90);
+    font-weight: bold;
+}
+h1{
+    font-size:50px ;
+    text-align: center;
+    margin-bottom: 20px ;
+    color: rgb(96, 0, 58);
+}
+ul{
+    width: 280px;
+    margin: 0 auto ;
+    
+}
+img{
+    width: 50px;
+    height: 33px;
+}
+th{
+    color: rgb(255, 0, 93) ;
+}
+table,th,td{
+    border: 1px solid rgb(149, 1, 90);
+    margin: 0 auto;
+    text-align: center;
+}
+
